@@ -1,5 +1,7 @@
 class PalindromeExample{  
  public static void main(String args[]){  
+
+// this is palimdrome .......
   int r,sum=1,temp =1;    
   int n=454;//It is the number variable to be checked for palindrome  
   
